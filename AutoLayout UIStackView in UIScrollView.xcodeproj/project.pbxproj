@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CF560D961DFA83D700B2962F /* ProgViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF560D951DFA83D700B2962F /* ProgViewController.swift */; };
 		D63906191C5FBD110050CFCA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63906181C5FBD110050CFCA /* AppDelegate.swift */; };
 		D639061B1C5FBD110050CFCA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D639061A1C5FBD110050CFCA /* ViewController.swift */; };
 		D639061E1C5FBD110050CFCA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D639061C1C5FBD110050CFCA /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CF560D951DFA83D700B2962F /* ProgViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgViewController.swift; sourceTree = "<group>"; };
 		D63906151C5FBD110050CFCA /* AutoLayout UIStackView in UIScrollView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AutoLayout UIStackView in UIScrollView.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D63906181C5FBD110050CFCA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D639061A1C5FBD110050CFCA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				D63906181C5FBD110050CFCA /* AppDelegate.swift */,
 				D639061A1C5FBD110050CFCA /* ViewController.swift */,
 				D639061C1C5FBD110050CFCA /* Main.storyboard */,
+				CF560D951DFA83D700B2962F /* ProgViewController.swift */,
 				D639061F1C5FBD110050CFCA /* Assets.xcassets */,
 				D63906211C5FBD110050CFCA /* LaunchScreen.storyboard */,
 				D63906241C5FBD110050CFCA /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				D639061B1C5FBD110050CFCA /* ViewController.swift in Sources */,
 				D63906191C5FBD110050CFCA /* AppDelegate.swift in Sources */,
+				CF560D961DFA83D700B2962F /* ProgViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
